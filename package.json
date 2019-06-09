@@ -1,6 +1,6 @@
 {
 	"name": "generator-swiss",
-	"version": "1.2.2",
+	"version": "1.0.0",
 	"description": "The Swiss Army Knife of Yeoman generators",
 	"license": "MIT",
 	"repository": "rodrigobdz/generator-swiss",
@@ -39,6 +39,7 @@
 		"humanize-url": "^1.0.1",
 		"is-scoped": "^1.0.0",
 		"normalize-url": "^3.3.0",
+		"np": "^5.0.3",
 		"superb": "^3.0.0",
 		"underscore.string": "^3.0.3",
 		"yeoman-generator": "^3.1.1"
