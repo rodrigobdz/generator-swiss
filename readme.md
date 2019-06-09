@@ -1,4 +1,4 @@
-# generator-swiss [![Build Status](https://travis-ci.com/rodrigobdz/generator-swiss.svg?token=GompZmyhpfWqmeymy6MY&branch=master)](https://travis-ci.com/rodrigobdz/generator-swiss)
+# :switzerland: generator-swiss [![Build Status](https://travis-ci.com/rodrigobdz/generator-swiss.svg?token=GompZmyhpfWqmeymy6MY&branch=master)](https://travis-ci.com/rodrigobdz/generator-swiss)
 
 > The Swiss Army Knife of Yeoman generators
 
