@@ -9,4 +9,3 @@ install:
 script:
 - markdownlint --config .markdownlint.yml *.md
 - shellcheck generators/sh/templates/script.sh
-- npm test
