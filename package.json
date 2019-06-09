@@ -57,7 +57,7 @@
 	},
 	"xo": {
 		"ignores": [
-			"generators/**/templates/**"
+			"generators/app/templates/**"
 		]
 	}
 }
