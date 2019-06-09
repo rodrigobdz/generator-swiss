@@ -1,6 +1,6 @@
 {
 	"name": "generator-swiss",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"description": "The Swiss Army Knife of Yeoman generators",
 	"license": "MIT",
 	"repository": "rodrigobdz/generator-swiss",
