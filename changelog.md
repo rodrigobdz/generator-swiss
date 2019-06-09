@@ -28,4 +28,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Shell script generator following [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
 
 [unreleased]: https://github.com/rodrigobdz/generator-swiss/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/rodrigobdz/generator-swiss/compare/8711e3ae187acf7f73744f5763894188251515bf...v1.0.0
+[1.0.0]: https://github.com/rodrigobdz/generator-swiss/compare/cbe98b5b32e5fbbf7acdfd5a49fe31762d2fc73e...v1.0.0
