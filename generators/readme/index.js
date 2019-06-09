@@ -18,8 +18,10 @@ module.exports = class extends Generator {
 		const repoName = utils.repoName(props.moduleName);
 
 		const tpl = {
+			moduleName: props.moduleName,
 			description: props.description,
 			githubUsername: props.githubUsername,
+			website: props.website,
 			repoName
 		};
 

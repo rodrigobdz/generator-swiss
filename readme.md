@@ -6,10 +6,11 @@
 ### Features
 <!-- markdownlint-enable MD001 -->
 
-- Changelog generator with [Keep a Changelog](https://keepachangelog.com/en/1.0.0) format
-- [GitHub's recommended files](https://github.com/rodrigobdz/generator-swiss/community) for Open Source repositories
-- [Minimal Readme](https://github.com/rodrigobdz/minimal-readme) generator
-- Shell script generator following [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+- npm module generator - `yo swiss`
+- Changelog generator with [Keep a Changelog](https://keepachangelog.com/en/1.0.0) format - `yo swiss:changelog`
+- [GitHub's recommended files](https://github.com/rodrigobdz/generator-swiss/community) for Open Source repositories  - `yo swiss:github`
+- [Minimal Readme](https://github.com/rodrigobdz/minimal-readme) generator - `yo swiss:readme`
+- Shell script generator following [Google's Shell Style Guide](https://google.github.io/styleguide/shell.xml) - `yo swiss:script`
 
 This is what I use for [my own modules](https://www.npmjs.com/~rodrigobdz) and [repositories](https://github.com/rodrigobdz?tab=repositories).
 

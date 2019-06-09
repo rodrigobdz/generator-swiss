@@ -16,7 +16,7 @@ module.exports = class extends Generator {
 				utils.website
 			]);
 
-			this.composeWith(require.resolve('../minimal-readme'), {
+			this.composeWith(require.resolve('../readme'), {
 				...props,
 				composed: true
 			});
