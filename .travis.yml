@@ -3,8 +3,9 @@ node_js:
   - '10'
   - '8'
   - '6'
+cache: npm
 install:
-- npm install -g markdownlint-cli
+- npm install
 script:
 - markdownlint --config .markdownlint.yml *.md
 - shellcheck generators/sh/templates/script.sh

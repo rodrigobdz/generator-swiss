@@ -45,6 +45,7 @@
 	},
 	"devDependencies": {
 		"ava": "*",
+		"markdownlint-cli": "^0.16.0",
 		"pify": "^4.0.1",
 		"xo": "*",
 		"yeoman-assert": "^3.0.0",
