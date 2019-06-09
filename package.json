@@ -13,7 +13,7 @@
 		"node": ">=6"
 	},
 	"scripts": {
-		"test": "xo !generators/app/templates/cli.js !generators/app/templates/test.js && ava"
+		"test": "xo && ava"
 	},
 	"files": [
 		"generators"
@@ -56,7 +56,7 @@
 	},
 	"xo": {
 		"ignores": [
-			"app/templates/**"
+			"generators/**/templates/**"
 		]
 	}
 }
