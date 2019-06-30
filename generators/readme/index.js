@@ -28,5 +28,7 @@ module.exports = class extends Generator {
 		this.fs.copyTpl([
 			`${this.templatePath()}/readme.md`
 		], this.destinationPath(), tpl);
+    
+    utils.mv(this, 'markdownlint.yml', '.markdownlint.yml');
 	}
 };

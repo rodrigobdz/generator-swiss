@@ -18,6 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Include [markdownlint](https://github.com/markdownlint/markdownlint) template
+
 ## [1.0.0] - 2019-06-09
 
 ### Added
